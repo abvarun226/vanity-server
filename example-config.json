@@ -1,0 +1,12 @@
+[
+    {
+        "importroot": "ayada.dev/pkg",
+        "vcs": "git",
+        "reporoot": "https://github.com/abvarun226"
+    },
+    {
+        "importroot": "ayada.dev/paas",
+        "vcs": "git",
+        "reporoot": "https://github.com/ayadapaas"
+    }
+]
